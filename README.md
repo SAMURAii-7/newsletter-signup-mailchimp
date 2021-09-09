@@ -20,6 +20,6 @@ npm install
 npm start
 ```
 - go to localhost:3000
-- after filling the newsletter form login to your mailchimp account
+- after filling the newsletter form, login to your mailchimp account
 - go to the "Audience" section
 - click on "All Contacts" and you can see the newly registered member details.
