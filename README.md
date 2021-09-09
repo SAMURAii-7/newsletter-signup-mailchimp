@@ -9,7 +9,7 @@ npm install
 
 # Requirements
 
-Create a .env file and type in your API key, audience ID and server alotted by refering to the .env.example file.
+Create a .env file and type in your API key, audience ID and server alotted. Use the format in .env.example file.
 
 # Run
 
