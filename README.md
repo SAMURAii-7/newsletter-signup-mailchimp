@@ -12,3 +12,4 @@ npm install
 ```sh
 npm start
 ```
+go to localhost:3000 if you are running the app locally.
