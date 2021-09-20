@@ -1,7 +1,7 @@
 # newsletter-signup-mailchimp
 Newsletter Signup using Mailchimp API
 
-# Install
+# Install Dependencies
 
 ```sh
 npm install
