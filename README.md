@@ -1,6 +1,9 @@
 # newsletter-signup-mailchimp
 Newsletter Signup using Mailchimp API
 
+# Note
+When using this project to register, there will be no confirmation of registration from mailchimp as that requires a subscription but the registration will be done successfully.
+
 # Install Dependencies
 
 ```sh
